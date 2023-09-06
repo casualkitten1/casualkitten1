@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Casual Kitten</h1>
 <h3 align="center">A sysadmin from France</h3>
 
-- 🌱 I started off by doing some fun stuff **I created some game menus / helped to crack DRMs**
+- 🌱 I started off by doing some fun stuff : **I created some game menus / helped to crack DRMs**
 
-- 📫 How to reach me **Send me a dm here!**
-
-- 💬 Fun fact **I helped REVOLT few years ago, iykyk**
+- 💬 Fun fact : **I helped REVOLT few years ago, iykyk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
