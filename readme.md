@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Casual Kitten</h1>
-<h3 align="center">A sysadmin from France</h3>
+<h1 align="center">Hi 👋, I'm SereniteaWithKetamine</h1>
+<h3 align="center">A sysadmin (according to my resume) </h3>
 
 - 🌱 I started off by doing some fun stuff : **I created some game menus / helped to crack DRMs**
 
